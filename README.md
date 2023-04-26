@@ -1,7 +1,7 @@
 <h1>Welcome</h1>
 
 
-<h>Introduction</h>
+<h2>Introduction</h2>
 
 
 <h2>Team Members<h2>
