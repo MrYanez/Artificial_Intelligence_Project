@@ -5,6 +5,9 @@
 <h2>Introduction</h2>
 
 <h2>Team Members</h2>
+Nahum
+Bennett
+Celeste
 
 <h2>Testing</h2>
 
