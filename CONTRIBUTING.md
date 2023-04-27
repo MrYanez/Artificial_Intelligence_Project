@@ -3,6 +3,7 @@
 <h2>Welcome</h2>
 
 <h2>Introduction</h2>
+<p>This is a project about gathering different information as for what the artificial intelligence matters. Understaing how technology work and its impact and society is very important, as well as its pros and cons, adventages and disadvanatges. 
 
 <h2>Team Members</h2>
 Nahum
