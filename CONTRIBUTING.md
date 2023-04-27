@@ -6,7 +6,9 @@
 
 <h2>Team Members</h2>
 Nahum
+<br>
 Bennett
+<br>
 Celeste
 
 <h2>Testing</h2>
