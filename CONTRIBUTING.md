@@ -14,7 +14,7 @@ Celeste
 
 <h2>Testing</h2>
 
-<h2>Bug Reports</2>
+<h2>Bug Reports</h2>
 
 If you run into any bugs while using a demo of the main branch, please proceed with these steps:
 
