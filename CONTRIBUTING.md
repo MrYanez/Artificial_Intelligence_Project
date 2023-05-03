@@ -3,7 +3,8 @@
 Welcome to the world of Artificial Intelligence! This is an open source project created and maintained by Group 1 which includes Nahum, Bennett, and Celeste in IT115. In this guide you will get an overview of the contribution workflow. The goal of our project is to learn our way around GitHub, learn a bunch of coding and teach about Artificial Intelligence.
 
 <h2>Introduction</h2>
-<p>This webpage is focused in understanding and documentaing about the world of artificial intelligence</p> 
+<p>This webpage is focused in understanding and documentaing about the world of artificial intelligence</p>
+
 
 <h2>Team Members</h2>
 Nahum
@@ -21,6 +22,7 @@ If you run into any bugs while using a demo of the main branch, please proceed w
 1. Create a new issue in the issues tab located at the top
 2. Explain the behavior of the website that is not working properly.
 3. Provide as much detail and context in the comment that you can before posting (i.e. how to reproduce the bug, where the bug happens, etc.)
+4. Leave a comment about the issue. 
 
 <h2>Code of Conduct</h2>
 <!--Next lines dded by Nahum--!>
