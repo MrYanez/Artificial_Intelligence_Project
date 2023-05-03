@@ -32,6 +32,6 @@ If you run into any bugs while using a demo of the main branch, please proceed w
     <li>Gracefully accepting constructive criticism</li>
     <li>Focusing on what is best for everyone at the event</li>
     <li>Showing empathy towards other participants</li>
-    <li>Always listen to others</li>
+    <li>Always listen to otherss</li>
     </ul>
     
