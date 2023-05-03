@@ -5,7 +5,7 @@ Welcome to the world of Artificial Intelligence! This is an open source project 
 
 <h2>Introduction</h2>
 <p>This webpage is focused in understanding and documentaing about the world of artificial intelligence</p>
-<Topics will be enlisted histically speaking as its evolution</p>
+<p>Topics will be enlisted histocally speaking as its evolution for the artificial intelligence</p>
 
 <h2>Team Members</h2>
 Nahum
