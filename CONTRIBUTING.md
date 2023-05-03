@@ -23,9 +23,11 @@ If you run into any bugs while using a demo of the main branch, please proceed w
 3. Provide as much detail and context in the comment that you can before posting (i.e. how to reproduce the bug, where the bug happens, etc.)
 
 <h2>Code of Conduct</h2>
-<ul><li>Using welcoming and inclusive language</li></ul>
-*Being respectful of differing viewpoints and experiences
-Gracefully accepting constructive criticism
-Focusing on what is best for everyone at the event
-Showing empathy towards other participants
+<ul>
+    <li>Using welcoming and inclusive language</li>
+    <li>Being respectful of differing viewpoints and experiences</li>
+    <li>Gracefully accepting constructive criticism</li>
+    ?<li>Focusing on what is best for everyone at the event</li>
+    <li>Showing empathy towards other participants</li>
+    </ul>
     
