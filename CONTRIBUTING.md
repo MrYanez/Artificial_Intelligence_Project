@@ -24,7 +24,7 @@ If you run into any bugs while using a demo of the main branch, please proceed w
 
 <h2>Code of Conduct</h2>
 
-###Examples of encouraged behavior that contributes to a positive environment include:###
+<p>Examples of encouraged behavior that contributes to a positive environment include:</p>
 <ul>
     <li>Using welcoming and inclusive language</li>
     <li>Being respectful of differing viewpoints and experiences</li>
