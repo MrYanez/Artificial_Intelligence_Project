@@ -1,4 +1,42 @@
 <h1>Artificial Intelligence Project</h1>
+Branch_to_artificial_intelligence
+
+<h2>Welcome</h2>
+Welcome to the world of Artificial Intelligence! This is an open source project created and maintained by Group 1 which includes Nahum, Bennett, and Celeste in IT115. In this guide you will get an overview of the contribution workflow. The goal of our project is to learn our way around GitHub, learn a bunch of coding and teach about Artificial Intelligence.
+
+<h2>Introduction</h2>
+<p>This webpage is focused in understanding and documentaing about the world of artificial intelligence</p> 
+
+<h2>Team Members</h2>
+Nahum
+<br>
+Bennett
+<br>
+Celeste
+
+<h2>Testing</h2>
+<ul>
+ <li>Make sure changes have been merged from branch to main, so main is updated</li>
+ 
+<h2>Bug Reports</h2>
+If you run into any bugs while using a demo of the main branch, please proceed with these steps:
+
+1. Create a new issue in the issues tab located at the top
+2. Explain the behavior of the website that is not working properly.
+3. Provide as much detail and context in the comment that you can before posting (i.e. how to reproduce the bug, where the bug happens, etc.)
+4. Don't create new branches, please refer to the already created to add content and merge it to main branch. <!--Added by Nahum-->
+
+<h2>Code of Conduct</h2>
+<!--Next lines dded by Nahum--!>
+<p>Examples of encouraged behavior that contributes to a positive environment include:</p>
+<ul> 
+    <li>Using welcoming and inclusive language</li>
+    <li>Being respectful of differing viewpoints and experiences</li>
+    <li>Gracefully accepting constructive criticism</li>
+    <li>Focusing on what is best for everyone at the event</li>
+    <li>Showing empathy towards other participants</li>
+    </ul>
+    main
 
 <h2>Welcome</h2>
 Welcome to the world of Artificial Intelligence! This is an open source project created and maintained by Group 1 which includes Nahum, Bennett, and Celeste in IT115. In this guide you will get an overview of the contribution workflow. The goal of our project is to learn our way around GitHub, learn a bunch of coding and teach about Artificial Intelligence.
