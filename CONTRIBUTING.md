@@ -24,8 +24,8 @@ If you run into any bugs while using a demo of the main branch, please proceed w
 
 <h2>Code of Conduct</h2>
 
-***Using welcoming and inclusive language***
-*Being respectful of differing viewpoints and experiences*
+*Using welcoming and inclusive language
+*Being respectful of differing viewpoints and experiences
 Gracefully accepting constructive criticism
 Focusing on what is best for everyone at the event
 Showing empathy towards other participants
