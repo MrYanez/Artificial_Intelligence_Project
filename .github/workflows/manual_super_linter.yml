@@ -31,9 +31,7 @@ jobs:
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
       
-<<<<<Super-Linter
-   # I added this code from Marketplace  
     - name: Super-Linter
     # You may pin to the exact commit or the version.
     # uses: super-linter/super-linter@45fc0d88288beee4701c62761281edfee85655d7
-      uses: super-linter/super-linter@v5.0.
+      uses: super-linter/super-linter@v5.0.0
